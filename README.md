@@ -78,3 +78,5 @@ npm run build
 Distributed under the MIT License. Developed with care by [omchandra0907-jpg](https://github.com/omchandra0907-jpg).
 
 <!-- commit step: feat: implement squarified treemap layout algorithm (Bruls et al.) -->
+
+<!-- commit step: perf: optimize aspect ratio minimization for rectangular blocks -->
