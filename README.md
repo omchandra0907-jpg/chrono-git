@@ -80,3 +80,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: implement squarified treemap layout algorithm (Bruls et al.) -->
 
 <!-- commit step: perf: optimize aspect ratio minimization for rectangular blocks -->
+
+<!-- commit step: feat: add directory hierarchy boundary grouping and street margins -->
