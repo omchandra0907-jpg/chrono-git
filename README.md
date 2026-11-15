@@ -92,3 +92,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: style: curate neon color palette for programming languages -->
 
 <!-- commit step: feat: implement commit touch emissive pulse and decay shader effect -->
+
+<!-- commit step: feat: add smooth orbit controls and camera damping -->
