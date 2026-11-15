@@ -90,3 +90,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: map file lines of code to building height with Math.log2 -->
 
 <!-- commit step: style: curate neon color palette for programming languages -->
+
+<!-- commit step: feat: implement commit touch emissive pulse and decay shader effect -->
