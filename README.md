@@ -84,3 +84,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: add directory hierarchy boundary grouping and street margins -->
 
 <!-- commit step: feat: setup Three.js scene, perspective camera, and directional lights -->
+
+<!-- commit step: feat: implement GPU instancing with THREE.InstancedMesh -->
