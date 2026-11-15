@@ -86,3 +86,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: setup Three.js scene, perspective camera, and directional lights -->
 
 <!-- commit step: feat: implement GPU instancing with THREE.InstancedMesh -->
+
+<!-- commit step: feat: map file lines of code to building height with Math.log2 -->
