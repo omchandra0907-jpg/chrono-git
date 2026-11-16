@@ -283,3 +283,5 @@ export class HudOverlay {
 /* Timeline scrubber transport bar */
 
 /* Playback rate multiplier controls */
+
+/* Building inspection metadata display */
