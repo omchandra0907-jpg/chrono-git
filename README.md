@@ -94,3 +94,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: implement commit touch emissive pulse and decay shader effect -->
 
 <!-- commit step: feat: add smooth orbit controls and camera damping -->
+
+<!-- commit step: feat: implement click-to-focus camera inspection rig -->
