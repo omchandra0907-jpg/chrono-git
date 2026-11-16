@@ -281,3 +281,5 @@ export class HudOverlay {
 }
 
 /* Timeline scrubber transport bar */
+
+/* Playback rate multiplier controls */
