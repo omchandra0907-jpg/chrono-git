@@ -279,3 +279,5 @@ export class HudOverlay {
     this.tooltip.style.display = 'none';
   }
 }
+
+/* Timeline scrubber transport bar */
