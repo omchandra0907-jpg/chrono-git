@@ -55,3 +55,5 @@ describe('Squarified Treemap Layout Engine', () => {
     }
   });
 });
+
+/* Verification of non-overlapping bounds */
