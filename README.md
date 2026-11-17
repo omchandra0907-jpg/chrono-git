@@ -98,3 +98,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: implement click-to-focus camera inspection rig -->
 
 <!-- commit step: samples: bundle realistic offline repository history sample -->
+
+<!-- commit step: style: add responsive layout styling for mobile and desktop screens -->
