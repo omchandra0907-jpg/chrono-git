@@ -96,3 +96,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: feat: add smooth orbit controls and camera damping -->
 
 <!-- commit step: feat: implement click-to-focus camera inspection rig -->
+
+<!-- commit step: samples: bundle realistic offline repository history sample -->
