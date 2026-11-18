@@ -10,3 +10,5 @@ export default defineConfig({
     port: 3000,
   },
 });
+
+/* Base relative path for GitHub Pages deployment */
