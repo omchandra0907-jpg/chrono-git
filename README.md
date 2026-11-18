@@ -100,3 +100,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: samples: bundle realistic offline repository history sample -->
 
 <!-- commit step: style: add responsive layout styling for mobile and desktop screens -->
+
+<!-- commit step: perf: optimize InstancedMesh memory reallocation on large histories -->
