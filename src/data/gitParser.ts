@@ -135,7 +135,3 @@ export function snapshotsToCompactJson(snapshots: CommitSnapshot[]): CompactRepo
     }),
   };
 }
-
-/* Git numstat log parser implementation */
-
-/* GitHub REST API repository commit fetcher */

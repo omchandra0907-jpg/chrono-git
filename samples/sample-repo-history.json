@@ -1,0 +1,86 @@
+{
+  "repository": "omchandra0907-jpg/alchem-c",
+  "commits": [
+    {
+      "hash": "1149552",
+      "author": "omchandra0907-jpg",
+      "date": "2026-10-26 15:42",
+      "message": "feat: define cell struct, element enum, and grid memory layout",
+      "additions": 83,
+      "deletions": 0,
+      "changedFiles": ["include/world.h", ".gitignore"],
+      "files": {
+        "include/world.h": 80,
+        ".gitignore": 8
+      }
+    },
+    {
+      "hash": "3ae3495",
+      "author": "omchandra0907-jpg",
+      "date": "2026-10-27 18:24",
+      "message": "feat: implement cellular automata gravity and chemical reaction table",
+      "additions": 545,
+      "deletions": 0,
+      "changedFiles": ["src/physics.c"],
+      "files": {
+        "include/world.h": 80,
+        "src/physics.c": 545,
+        ".gitignore": 8
+      }
+    },
+    {
+      "hash": "25a5bb5",
+      "author": "omchandra0907-jpg",
+      "date": "2026-10-28 14:10",
+      "message": "feat: termios raw mode and flicker-free half-block compositor",
+      "additions": 284,
+      "deletions": 0,
+      "changedFiles": ["include/terminal.h", "src/render.c"],
+      "files": {
+        "include/world.h": 80,
+        "include/terminal.h": 50,
+        "src/physics.c": 545,
+        "src/render.c": 234,
+        ".gitignore": 8
+      }
+    },
+    {
+      "hash": "43ad1ea",
+      "author": "omchandra0907-jpg",
+      "date": "2026-10-29 20:05",
+      "message": "feat: clock_gettime fixed-timestep loop and runtime HUD",
+      "additions": 226,
+      "deletions": 1,
+      "changedFiles": ["Makefile", "src/main.c"],
+      "files": {
+        "include/world.h": 80,
+        "include/terminal.h": 50,
+        "src/physics.c": 545,
+        "src/render.c": 234,
+        "src/main.c": 185,
+        "Makefile": 40,
+        ".gitignore": 8
+      }
+    },
+    {
+      "hash": "37a2b8f",
+      "author": "omchandra0907-jpg",
+      "date": "2026-10-31 19:40",
+      "message": "docs: complete architecture reference, reaction matrix, and CI workflow",
+      "additions": 138,
+      "deletions": 0,
+      "changedFiles": [".github/workflows/ci.yml", "README.md"],
+      "files": {
+        "include/world.h": 80,
+        "include/terminal.h": 50,
+        "src/physics.c": 545,
+        "src/render.c": 234,
+        "src/main.c": 185,
+        "Makefile": 40,
+        "README.md": 120,
+        ".github/workflows/ci.yml": 28,
+        ".gitignore": 8
+      }
+    }
+  ]
+}

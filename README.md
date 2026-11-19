@@ -76,5 +76,3 @@ npm run build
 ## License
 
 Distributed under the MIT License. Developed with care by [omchandra0907-jpg](https://github.com/omchandra0907-jpg).
-
-<!-- MIT License validated -->

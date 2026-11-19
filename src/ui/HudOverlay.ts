@@ -279,11 +279,3 @@ export class HudOverlay {
     this.tooltip.style.display = 'none';
   }
 }
-
-/* Timeline scrubber transport bar */
-
-/* Playback rate multiplier controls */
-
-/* Building inspection metadata display */
-
-/* Cleaned unused declarations */
