@@ -102,3 +102,5 @@ Distributed under the MIT License. Developed with care by [omchandra0907-jpg](ht
 <!-- commit step: style: add responsive layout styling for mobile and desktop screens -->
 
 <!-- commit step: perf: optimize InstancedMesh memory reallocation on large histories -->
+
+<!-- commit step: docs: write 3D architecture guide and GPU instancing overview -->
