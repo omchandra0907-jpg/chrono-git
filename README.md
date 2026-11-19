@@ -76,31 +76,3 @@ npm run build
 ## License
 
 Distributed under the MIT License. Developed with care by [omchandra0907-jpg](https://github.com/omchandra0907-jpg).
-
-<!-- commit step: feat: implement squarified treemap layout algorithm (Bruls et al.) -->
-
-<!-- commit step: perf: optimize aspect ratio minimization for rectangular blocks -->
-
-<!-- commit step: feat: add directory hierarchy boundary grouping and street margins -->
-
-<!-- commit step: feat: setup Three.js scene, perspective camera, and directional lights -->
-
-<!-- commit step: feat: implement GPU instancing with THREE.InstancedMesh -->
-
-<!-- commit step: feat: map file lines of code to building height with Math.log2 -->
-
-<!-- commit step: style: curate neon color palette for programming languages -->
-
-<!-- commit step: feat: implement commit touch emissive pulse and decay shader effect -->
-
-<!-- commit step: feat: add smooth orbit controls and camera damping -->
-
-<!-- commit step: feat: implement click-to-focus camera inspection rig -->
-
-<!-- commit step: samples: bundle realistic offline repository history sample -->
-
-<!-- commit step: style: add responsive layout styling for mobile and desktop screens -->
-
-<!-- commit step: perf: optimize InstancedMesh memory reallocation on large histories -->
-
-<!-- commit step: docs: write 3D architecture guide and GPU instancing overview -->
