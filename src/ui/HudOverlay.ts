@@ -285,3 +285,5 @@ export class HudOverlay {
 /* Playback rate multiplier controls */
 
 /* Building inspection metadata display */
+
+/* Cleaned unused declarations */
